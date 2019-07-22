@@ -33,14 +33,14 @@
   "sys_created_by": "admin",
   "sys_created_on": "2019-06-28 20:12:34",
   "sys_id": "dbd5f88edb1af300936dd498f49619cb",
-  "sys_mod_count": 9,
+  "sys_mod_count": 11,
   "sys_name": "New POC Business Rule 1",
   "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
   "sys_policy": null,
   "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
   "sys_update_name": "sys_script_dbd5f88edb1af300936dd498f49619cb",
   "sys_updated_by": "abraham.lincoln",
-  "sys_updated_on": "2019-07-16 20:13:34",
+  "sys_updated_on": "2019-07-22 18:17:00",
   "template": null,
   "when": "before"
 }
