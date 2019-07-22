@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "description": "Set the values on the form as follows:\nDescription = Test Description",
+  "display_name": "Set Field Values",
+  "inputs": null,
+  "order": 2,
+  "step_config": "fcae4a935332120028bc29cac2dc340e",
+  "sys_class_name": "sys_atf_step",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-13 18:00:44",
+  "sys_id": "4dd78b8d4f4233009e9f0f5e9310c7ff",
+  "sys_mod_count": 0,
+  "sys_name": "Set Field Values",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_atf_step_4dd78b8d4f4233009e9f0f5e9310c7ff",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-13 18:00:44",
+  "table": "x_dtll2_demotasker_test_table_1",
+  "test": "8297478d4f4233009e9f0f5e9310c7d0",
+  "timeout": null
+}

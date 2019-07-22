@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "4dd78b8d4f4233009e9f0f5e9310c7ff",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-13 18:00:44",
+  "sys_id": "3108878d4f4233009e9f0f5e9310c790",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-13 18:00:44",
+  "value": "description=Test Description^EQ",
+  "variable": "b3dba2465320220002c6435723dc34f0"
+}

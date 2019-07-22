@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "number",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "ChangeScriptDemo1",
+  "order": null,
+  "script": {
+    "____see": "sn/DemoTasker123/Client Script/x_dtll2_demotasker_demotasker123_table/active_true/ChangeScriptDemo1.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-18 17:38:17",
+  "sys_id": "0b22b0324f8233009e9f0f5e9310c77a",
+  "sys_mod_count": 1,
+  "sys_name": "ChangeScriptDemo1",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_script_client_0b22b0324f8233009e9f0f5e9310c77a",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-28 13:19:05",
+  "table": "x_dtll2_demotasker_demotasker123_table",
+  "type": "onChange",
+  "ui_type": 10,
+  "view": null
+}

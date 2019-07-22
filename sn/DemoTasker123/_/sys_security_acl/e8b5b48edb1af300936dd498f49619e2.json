@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_dtll2_demotasker_new_poc_demo_table_1",
+  "name": "x_dtll2_demotasker_new_poc_demo_table_1",
+  "operation": "delete",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-28 20:11:02",
+  "sys_id": "e8b5b48edb1af300936dd498f49619e2",
+  "sys_mod_count": 0,
+  "sys_name": "x_dtll2_demotasker_new_poc_demo_table_1",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_security_acl_e8b5b48edb1af300936dd498f49619e2",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-28 20:11:02",
+  "type": "record"
+}

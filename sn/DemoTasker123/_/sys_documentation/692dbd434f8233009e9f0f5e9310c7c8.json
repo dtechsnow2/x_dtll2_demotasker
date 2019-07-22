@@ -1,0 +1,23 @@
+{
+  "element": "maintenance_schedule",
+  "help": null,
+  "hint": null,
+  "label": "Maintenance schedule",
+  "language": "en",
+  "name": "x_dtll2_demotasker_newfeaturetable1",
+  "plural": "Maintenance schedules",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-19 17:41:26",
+  "sys_id": "692dbd434f8233009e9f0f5e9310c7c8",
+  "sys_mod_count": 0,
+  "sys_name": "Maintenance schedule",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_documentation_x_dtll2_demotasker_newfeaturetable1_maintenance_schedule_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-19 17:41:26",
+  "url": null,
+  "url_target": null
+}

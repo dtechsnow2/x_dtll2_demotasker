@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-20 20:38:48",
+  "sys_id": "995febd7db0aff00dd3d6165ca961900",
+  "sys_mod_count": 0,
+  "sys_name": "x_dtll2_demotasker_iceexclusivefeaturetable.x_dtll2_demotasker.iceexclusivefeaturetable_user",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_security_acl_role_995febd7db0aff00dd3d6165ca961900",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-20 20:38:48",
+  "transaction_id": null
+}

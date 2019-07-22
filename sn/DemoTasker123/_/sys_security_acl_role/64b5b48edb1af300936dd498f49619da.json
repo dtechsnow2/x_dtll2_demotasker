@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-28 20:11:02",
+  "sys_id": "64b5b48edb1af300936dd498f49619da",
+  "sys_mod_count": 0,
+  "sys_name": "x_dtll2_demotasker_new_poc_demo_table_1.x_dtll2_demotasker.new_poc_demo_table_1_user",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_security_acl_role_64b5b48edb1af300936dd498f49619da",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-28 20:11:02",
+  "transaction_id": null
+}

@@ -1,0 +1,23 @@
+{
+  "element": "test_column_1",
+  "help": null,
+  "hint": null,
+  "label": "Test Column 1",
+  "language": "en",
+  "name": "x_dtll2_demotasker_new_poc_demo_table_1",
+  "plural": "Test Column 1s",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-28 20:11:22",
+  "sys_id": "ddc5b88edb1af300936dd498f4961902",
+  "sys_mod_count": 0,
+  "sys_name": "Test Column 1",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_documentation_x_dtll2_demotasker_new_poc_demo_table_1_test_column_1_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-28 20:11:22",
+  "url": null,
+  "url_target": null
+}

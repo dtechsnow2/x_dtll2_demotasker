@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "New POC Demo Table 1",
+  "language": "en",
+  "name": "x_dtll2_demotasker_new_poc_demo_table_1",
+  "plural": "New POC Demo Table 1s",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-28 20:11:03",
+  "sys_id": "b4b5f48edb1af300936dd498f4961907",
+  "sys_mod_count": 0,
+  "sys_name": "New POC Demo Table 1",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_documentation_x_dtll2_demotasker_new_poc_demo_table_1__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-28 20:11:03",
+  "url": null,
+  "url_target": null
+}
