@@ -3,7 +3,7 @@
  * ClassName   : sys_script
  * Created On  : 2019-06-28 20:12:34
  * Created By  : admin
- * Updated On  : 2019-07-16 20:13:34
+ * Updated On  : 2019-07-22 18:17:00
  * Updated By  : abraham.lincoln
  * URL         : /sys_script.do?sys_id=dbd5f88edb1af300936dd498f49619cb
  */
@@ -18,8 +18,8 @@
  * @param previous the previous record
  */
 (function executeRule(current, previous /*null when async*/) {
-
-	gs.info("Hello World!!");
+gs.debug("Hello World!!");
+	
 	gs.info("Hello World!!");
 gs.info("Hello World2!!");
 // 	gs.info("Hello Za Worldo!");
