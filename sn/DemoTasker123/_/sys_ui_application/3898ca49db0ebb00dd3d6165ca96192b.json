@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "hint": null,
+  "name": "DemoTasker123",
+  "order": null,
+  "roles": "x_dtll2_demotasker.user",
+  "sys_class_name": "sys_ui_application",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-13 13:23:31",
+  "sys_id": "3898ca49db0ebb00dd3d6165ca96192b",
+  "sys_mod_count": 0,
+  "sys_name": "DemoTasker123",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_ui_application_3898ca49db0ebb00dd3d6165ca96192b",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-13 13:23:31"
+}

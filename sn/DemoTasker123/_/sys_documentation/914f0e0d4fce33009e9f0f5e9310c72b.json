@@ -1,0 +1,23 @@
+{
+  "element": "file",
+  "help": null,
+  "hint": null,
+  "label": "File",
+  "language": "en",
+  "name": "x_dtll2_demotasker_ui_element_backing_table_1",
+  "plural": "Files",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-13 13:52:46",
+  "sys_id": "914f0e0d4fce33009e9f0f5e9310c72b",
+  "sys_mod_count": 0,
+  "sys_name": "File",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_documentation_x_dtll2_demotasker_ui_element_backing_table_1_file_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-13 13:52:46",
+  "url": null,
+  "url_target": null
+}

@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_dtll2_demotasker_newfeaturetable1",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-19 17:41:27",
+  "sys_id": "ed2dfd434f8233009e9f0f5e9310c703",
+  "sys_mod_count": 0,
+  "sys_name": "x_dtll2_demotasker_newfeaturetable1",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "ua_table_licensing_config_ed2dfd434f8233009e9f0f5e9310c703",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-19 17:41:27"
+}

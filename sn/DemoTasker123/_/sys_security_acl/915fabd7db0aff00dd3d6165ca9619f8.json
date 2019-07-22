@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_dtll2_demotasker_iceexclusivefeaturetable",
+  "name": "x_dtll2_demotasker_iceexclusivefeaturetable",
+  "operation": "read",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-20 20:38:48",
+  "sys_id": "915fabd7db0aff00dd3d6165ca9619f8",
+  "sys_mod_count": 0,
+  "sys_name": "x_dtll2_demotasker_iceexclusivefeaturetable",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_security_acl_915fabd7db0aff00dd3d6165ca9619f8",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-20 20:38:48",
+  "type": "record"
+}

@@ -1,0 +1,23 @@
+{
+  "element": "support_group",
+  "help": null,
+  "hint": null,
+  "label": "Support group",
+  "language": "en",
+  "name": "x_dtll2_demotasker_newfeaturetable1",
+  "plural": "Support groups",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-19 17:41:26",
+  "sys_id": "a52dbd434f8233009e9f0f5e9310c7e9",
+  "sys_mod_count": 0,
+  "sys_name": "Support group",
+  "sys_package": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_policy": null,
+  "sys_scope": "4c984ac5db0ebb00dd3d6165ca961921",
+  "sys_update_name": "sys_documentation_x_dtll2_demotasker_newfeaturetable1_support_group_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-19 17:41:26",
+  "url": null,
+  "url_target": null
+}
